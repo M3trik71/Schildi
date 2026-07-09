@@ -2,7 +2,7 @@
 
 ![Projektübersicht](Schildi.jpg)
 
-This Phyton project is a robot pet, that can perceive its surroundings through many sensors and takes appropriate actions with it.  
+This Python-based project is a robotic pet designed to interact with and respond to its environment. By using a variety of sensors, the robot can perceive its surroundings, collect real-time data, and make intelligent decisions based on the detected conditions. It is capable of processing sensor inputs and performing appropriate actions, creating a more dynamic and interactive experience similar to a living companion.
 
 -------------------------------------------------------------------------------------
  
