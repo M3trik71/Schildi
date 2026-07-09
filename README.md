@@ -8,6 +8,7 @@ This Python-based project is a robotic pet designed to interact with and respond
 
 It is capable of processing sensor inputs and performing appropriate actions, creating a more dynamic and interactive experience similar to a living companion.
 
+![Projektübersicht](Teaser2.jpg)
 
 -------------------------------------------------------------------------------------
  
