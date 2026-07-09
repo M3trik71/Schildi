@@ -8,7 +8,8 @@ This Phyton project is a robot pet, that can perceive its surroundings through m
  
 The Base of that Project is a Raspberry Pi Pico W.
 
-Build in Modules:
+-------------------------------- Build in Modules ------------------------------------- 
+
 - 2x LM393 Photosensor
 - 2x IR Sensor
 - 1x PWM vibration motor
