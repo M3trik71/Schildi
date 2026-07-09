@@ -27,7 +27,7 @@ Build in Modules:
 
 -------------------------------- Pin Assignment ------------------------------------- 
 
-![Projektübersicht](PinOut.jpg)
+![Projektübersicht](PinOut.png)
 
 ------------------------------- Adress Assignment -----------------------------------
 
