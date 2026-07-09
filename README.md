@@ -4,6 +4,8 @@
 
 This Phyton project is a robot pet, that can perceive its surroundings through many sensors and takes appropriate actions with it.  
 
+-------------------------------------------------------------------------------------
+ 
 The Base of that Project is a Raspberry Pi Pico W.
 
 Build in Modules:
@@ -23,7 +25,7 @@ Build in Modules:
 - 8x MG90 Servos
   
 
- -------------------------------- Pin Assignment ------------------------------------- 
+-------------------------------- Pin Assignment ------------------------------------- 
 
 
                          SDA  = GP0      VBUS     =  5V (USB Power)
@@ -33,7 +35,7 @@ Build in Modules:
                               = GP3      3V3(OUT) =  Sub Change for Gyro
                               = GP4      ADC_VREF =
                               = GP5      GP28_A2  = 
-                             = GND      GND      =
+                              = GND      GND      =
   LM393 Photosensor Right     = GP6      GP27_A1  = 
   LM393 Photosensor Left      = GP7      GP26_A0  =  Volt Sensor 
                               = GP8      RUN      =  
@@ -46,10 +48,10 @@ Build in Modules:
                               = GND      GND      =
   Vibration  - Modul          = GP14     GP17     =  RX-Pin     - DFPlayer Sound Modul
   PIR Sensor - Movement Modul = GP15     GP16     =  TX-Pin     - DFPlayer Sound Modul
+
   
-
-
- ------------ Adress Assignment -----------
+ 
+------------------------------- Adress Assignment -----------------------------------
 
 #60  =  SH1106 Display  - Left/Right  - 1.3 inch xfp1116-07a y oled displays
 #61  =  SSD1306 Display - Front
@@ -64,5 +66,5 @@ Build in Modules:
 
 #112 =  PCA9685 Servo Controller
 
-# --------------------------------------- 
+-------------------------------------------------------------------------------------
 
